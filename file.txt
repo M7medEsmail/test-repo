@@ -1,4 +1,4 @@
 send from local to remote
 received message from local
-all test done
 Feature local to remote
+receive successfully 
