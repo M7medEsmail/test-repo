@@ -2,5 +2,5 @@ send from local to remote
 received message from local
 Feature local to remote
 receive successfully 
-kloo tmamm kda
-all is done 
+kda eldonya tmam mn remote to local
+git is done
